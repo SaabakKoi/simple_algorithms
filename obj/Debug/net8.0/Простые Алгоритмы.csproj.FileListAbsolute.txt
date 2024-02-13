@@ -12,3 +12,4 @@ C:\Users\79154\Desktop\Простые Алгоритмы\obj\Debug\net8.0\refint
 C:\Users\79154\Desktop\Простые Алгоритмы\obj\Debug\net8.0\Простые Алгоритмы.pdb
 C:\Users\79154\Desktop\Простые Алгоритмы\obj\Debug\net8.0\Простые Алгоритмы.genruntimeconfig.cache
 C:\Users\79154\Desktop\Простые Алгоритмы\obj\Debug\net8.0\ref\Простые Алгоритмы.dll
+C:\Users\79154\Desktop\Простые Алгоритмы\obj\Debug\net8.0\Простые Алгоритмы.sourcelink.json
