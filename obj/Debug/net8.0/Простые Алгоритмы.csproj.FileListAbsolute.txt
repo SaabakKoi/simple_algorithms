@@ -1,0 +1,14 @@
+C:\Users\79154\Desktop\Простые Алгоритмы\bin\Debug\net8.0\Простые Алгоритмы.exe
+C:\Users\79154\Desktop\Простые Алгоритмы\bin\Debug\net8.0\Простые Алгоритмы.deps.json
+C:\Users\79154\Desktop\Простые Алгоритмы\bin\Debug\net8.0\Простые Алгоритмы.runtimeconfig.json
+C:\Users\79154\Desktop\Простые Алгоритмы\bin\Debug\net8.0\Простые Алгоритмы.dll
+C:\Users\79154\Desktop\Простые Алгоритмы\bin\Debug\net8.0\Простые Алгоритмы.pdb
+C:\Users\79154\Desktop\Простые Алгоритмы\obj\Debug\net8.0\Простые Алгоритмы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79154\Desktop\Простые Алгоритмы\obj\Debug\net8.0\Простые Алгоритмы.AssemblyInfoInputs.cache
+C:\Users\79154\Desktop\Простые Алгоритмы\obj\Debug\net8.0\Простые Алгоритмы.AssemblyInfo.cs
+C:\Users\79154\Desktop\Простые Алгоритмы\obj\Debug\net8.0\Простые Алгоритмы.csproj.CoreCompileInputs.cache
+C:\Users\79154\Desktop\Простые Алгоритмы\obj\Debug\net8.0\Простые Алгоритмы.dll
+C:\Users\79154\Desktop\Простые Алгоритмы\obj\Debug\net8.0\refint\Простые Алгоритмы.dll
+C:\Users\79154\Desktop\Простые Алгоритмы\obj\Debug\net8.0\Простые Алгоритмы.pdb
+C:\Users\79154\Desktop\Простые Алгоритмы\obj\Debug\net8.0\Простые Алгоритмы.genruntimeconfig.cache
+C:\Users\79154\Desktop\Простые Алгоритмы\obj\Debug\net8.0\ref\Простые Алгоритмы.dll

@@ -7,3 +7,5 @@ Temp/
 *.ilk
 *.user
 *.sln.docstates
+*.csproj
+*.csproj.nug
