@@ -1,0 +1,9 @@
+Temp/
+*.pidproj.user
+*.suo
+*.spdata
+*.cache
+*.apk
+*.ilk
+*.user
+*.sln.docstates
