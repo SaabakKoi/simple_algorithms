@@ -33,17 +33,28 @@
 
 //3rd Task
 
+// Console.Write("Введите число: ");
+// int number = Convert.ToInt32(Console.ReadLine());
+
+// if( number > 9 && number < 100){
+//     int leftDigit = number / 10;
+//     int rightDigit = number % 10;
+//     if( leftDigit > rightDigit){
+//         System.Console.WriteLine(leftDigit);
+//     }else{
+//         System.Console.WriteLine(rightDigit);
+//     }
+// } else {
+//     System.Console.WriteLine("Введите число в диапазоне от 10 до 99 включительно");
+// }
+
+// 4th Task
+
 Console.Write("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
-if( number > 9 && number < 100){
-    int leftDigit = number / 10;
-    int rightDigit = number % 10;
-    if( leftDigit > rightDigit){
-        System.Console.WriteLine(leftDigit);
-    }else{
-        System.Console.WriteLine(rightDigit);
-    }
-} else {
-    System.Console.WriteLine("Введите число в диапазоне от 10 до 99 включительно");
+while(number > 0){
+    int digit = number%10;
+    System.Console.Write(digit + "," + " ");
+    number /= 10;
 }
